@@ -15,7 +15,7 @@ The purpose of this analysis is to employ different techniques to train and eval
 Naive Random Oversampling
 <img width="775" alt="Screenshot 2023-04-25 at 11 46 08 AM" src="https://user-images.githubusercontent.com/120140614/234332184-ca2a0c26-98dc-4935-bbbf-5260767b4eb1.png">
 
-The balanced accuracy for the naive random oversampling is 64%. The imbalanced classification report shows that precision is low with a sensitvity of 59% for the high risk so it is not reliable positive classification and high for the low risk with a senstivity of 69% making it a more reliable positivie classification. The recall score .59/.69 for high to low risk. 
+The balanced accuracy for the naive random oversampling is 64%. The imbalanced classification report shows that precision is low with a sensitvity of 59% for the high risk so it is not reliable positive classification and high for the low risk with a senstivity of 69%. The recall score .59/.69 for high to low risk. 
 
 SMOTE Oversampling 
 
